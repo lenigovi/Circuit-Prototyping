@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U2",1," Arduino Uno R3"
+"R3, R5",2,"220 Ω Resistor"
+"D2",1,"Red LED"
+"D3",1,"Green LED"
+"SERVO2",1,"Positional Micro Servo"
+"PING1",1," Ultrasonic Distance Sensor"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
